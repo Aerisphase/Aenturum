@@ -17,4 +17,3 @@ def sample_responses(input_text):
         return str(date_time)
 
     return "I don't understand you"
-

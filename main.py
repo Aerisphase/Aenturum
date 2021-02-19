@@ -1,4 +1,4 @@
-import AenturumBETA as keys
+import Aenturum as keys
 from telegram.ext import *
 import Responses as R
 
